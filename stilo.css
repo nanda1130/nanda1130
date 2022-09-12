@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+body {
+    background: #ccc;
+}
+
+#divtopo {
+padding: 10%;
+}
+
+#p2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+#text {
+   text-align: center;
+}
+
+.p1 {
+    text-align: center;
+} 
+
+.p3 {
+    text-align: center;
+}
+
+.Bar {
+   color: red;
+}
+
+#baner {
+    width: 49%;
+    margin: 6% 0px 0px 25%;
+}
+
+.classes {
+    font-style: italic;
+}
+
+#Beneficios {
+    background: rgb(228, 223, 216);
+    padding: 20px;
+}
+
+#textdois {
+    text-align: center;
+}
+
+ol {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: right;
+    margin-right: 15%;
+}
+
+#foto {
+    width: 50%;
+}
+
+#text {
+    padding-left: 20px;
+}
